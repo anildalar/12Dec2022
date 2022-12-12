@@ -36,3 +36,42 @@ if elseif elseif else
 12am - 2pm  =  CSS
 2pm  - 6pm  =  JS
 
+
+If else if else if else
+
+6am - 12am = Good Morning
+12am - 3pm = Good Afternoon
+3pm = 8pm =  Good Evening
+8pm >     = Good Night
+
+We will use input from user
+
+WE have to use the time in 24 hours
+
+There are 3 kind of Box in Javascript.
+
+1. Alert BOx  window.alert() or alert();
+2. Prompt Box window.prompt() // used for taking user input
+	2.1 input are recived as string
+
+3. window.confirm()
+		Are you 18+ ?
+	 Input are recived  as boolean value i.e true/false
+
+
+
+How to check the data type in JS ?
+typeof operator
+
+typeof 
+
+You have to convert string number to number
+				"10"  ->  10
+				String -> Number
+
+Type Conversion
+parseInt() is a function
+
+
+
+
